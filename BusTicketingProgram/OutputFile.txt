@@ -1,0 +1,89 @@
+Passenger: Vergil Reyes
+Seat Number: 1B
+
+Passenger: Patrick Cunanan
+Seat Number: 1A
+
+Passenger: Brendel Macalino
+Seat Number: 2C
+
+Passenger: Marc Malonzo
+Seat Number: 4B
+
+Passenger: Raiden Reyes
+Seat Number: 3A
+
+Passenger: Maeric Rico
+Seat Number: 7A
+
+Passenger: Janssen Cruz
+Seat Number: 8B
+
+Passenger: Vergil Reyes
+Seat Number: 1B
+
+Passenger: Patrick Cunanan
+Seat Number: 1A
+
+Passenger: Brendel Macalino
+Seat Number: 2C
+
+Passenger: Marc Malonzo
+Seat Number: 4B
+
+Passenger: Raiden Reyes
+Seat Number: 3A
+
+Passenger: Maeric Rico
+Seat Number: 7A
+
+Passenger: Janssen Cruz
+Seat Number: 8B
+
+Passenger: Vergil Reyes
+Seat Number: 1B
+
+Passenger: Patrick Cunanan
+Seat Number: 1A
+
+Passenger: Brendel Macalino
+Seat Number: 2C
+
+Passenger: Marc Malonzo
+Seat Number: 4B
+
+Passenger: Raiden Reyes
+Seat Number: 3A
+
+Passenger: Maeric Rico
+Seat Number: 7A
+
+Passenger: Janssen Cruz
+Seat Number: 8B
+
+Passenger: cj
+Seat Number: 1D
+Passenger: tracer
+Seat Number: 1A
+Passenger: Vergil Reyes
+Seat Number: 1B
+
+Passenger: Brendel Macalino
+Seat Number: 2C
+
+Passenger: Marc Malonzo
+Seat Number: 4B
+
+Passenger: Raiden Reyes
+Seat Number: 3A
+
+Passenger: Maeric Rico
+Seat Number: 7A
+
+Passenger: Janssen Cruz
+Seat Number: 8B
+
+Passenger: Patrick
+Seat Number: 4A
+Passenger: Pogi JM
+Seat Number: 8D
